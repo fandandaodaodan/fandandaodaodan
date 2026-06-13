@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Vibe Coding Projects
+
+- [Lottie Preview](https://fandandaodaodan.github.io/lottie-preview/)  
+  A lightweight Lottie animation preview tool built through AI-assisted coding, focused on quick visual checks, smoother iteration, and a simple developer-friendly workflow.
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fandandaodaodan&show_icons=true&hide_title=true&hide_border=true)
